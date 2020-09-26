@@ -1,0 +1,84 @@
+name: kinwae_test
+description: A new Flutter project.
+
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^0.1.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  google_fonts:
+  flutter_svg:
+  fdottedline: ^1.0.1
+  flutter_staggered_animations: ^0.1.2
+
+
+flutter:
+
+
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/images/
+
+
+  # An image asset can refer to one or more resolution-specific "variants", see
+  # https://flutter.dev/assets-and-images/#resolution-aware.
+
+  # For details regarding adding assets from package dependencies, see
+  # https://flutter.dev/assets-and-images/#from-packages
+
+  # To add custom fonts to your application, add a fonts section here,
+  # in this "flutter" section. Each entry in this list should have a
+  # "family" key with the font family name, and a "fonts" key with a
+  # list giving the asset and other descriptors for the font. For
+
+  fonts:
+    - family: FuturaMain
+      fonts:
+        - asset: assets/fonts/FuturaStdMedium.ttf
+    - family: FuturaMedium
+      fonts:
+        - asset: assets/fonts/FuturaPTMedium.otf
+          # style: italic
+    - family: FuturaLight
+      fonts:
+        - asset: assets/fonts/FuturaPTLight.otf
+        - asset: assets/fonts/FuturaPTLightOblique.otf
+    - family: FuturaBold
+      fonts:
+        - asset: assets/fonts/FuturaPTBold.otf
+        - asset: assets/fonts/FuturaPTBoldOblique.otf
+    - family: FuturaHeavy
+      fonts:
+        - asset: assets/fonts/FuturaPTHeavy.otf
+        - asset: assets/fonts/FuturaPTHeavyOblique.otf
+    - family: FuturaExtraBold
+      fonts:
+        - asset: assets/fonts/FuturaPTExtraBold.otf
+        - asset: assets/fonts/FuturaPTExtraBoldOblique.otf
+    - family: FuturaBook
+      fonts:
+        - asset: assets/fonts/FuturaPTBook.otf
+        - asset: assets/fonts/FuturaPTBookOblique.otf
+    - family: FuturaCondBook
+      fonts:
+        - asset: assets/fonts/FuturaPTCondBook.otf
+        - asset: assets/fonts/FuturaPTCondBookOblique.otf
+    
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/custom-fonts/#from-packages

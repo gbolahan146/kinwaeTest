@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>icons</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="transfer_fill">
+            <rect id="Rectangle" x="0" y="0" width="30" height="30"></rect>
+            <path d="M1.5,2 L28.5,2 C28.89792,2 29.27928,2.1580352 29.5605601,2.439344 C29.8420801,2.720648 30,3.102176 30,3.5 L30,27.5 C30,27.89792 29.8420801,28.27928 29.5605601,28.5605601 C29.27928,28.84208 28.89792,29 28.5,29 L1.5,29 C1.102176,29 0.7206432,28.84208 0.4393392,28.5605601 C0.1580352,28.27928 0,27.89792 0,27.5 L0,3.5 C0,3.102176 0.1580352,2.720648 0.4393392,2.439344 C0.7206432,2.1580352 1.102176,2 1.5,2 Z M15,11 L9.00000001,11 L9.00000001,14 L22.5,14 L15,6.50000001 L15,11 Z M7.50000001,17 L15,24.5 L15,20 L21,20 L21,17 L7.50000001,17 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>
