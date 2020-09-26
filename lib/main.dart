@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:kinwae_test/splashscreen.dart';
 
-import 'package:kinwae_test/widgets/bottomNav.dart';
 
 void main() {
   runApp(MyApp());

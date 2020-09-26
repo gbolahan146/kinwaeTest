@@ -38,25 +38,6 @@ class _BottomNavScreenState extends State<BottomNavScreen> {
       _selectedIndex = index;
     });
   }
-
-  // final List _screens = [
-  //   Scaffold(
-  //     body: Center(
-  //       child: Text("Home"),
-  //     ),
-  //   ),
-  //   TestScreen(),
-  //   Scaffold( body: Center(
-  //       child: Text("Loan"),
-  //     ),),
-  //   Scaffold( body: Center(
-  //       child: Text("Premium"),
-  //     ),),
-  //   Scaffold( body: Center(
-  //       child: Text("Profile"),
-  //     ),),
-  // ];
-  int _currentIndex = 0;
   int _selectedIndex = 0;
 
   @override

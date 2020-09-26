@@ -1,7 +1,5 @@
 import 'dart:async';
-
 import 'package:flutter/material.dart';
-import 'package:kinwae_test/main.dart';
 import 'package:kinwae_test/widgets/bottomNav.dart';
 
 class SplashScreen extends StatefulWidget {
@@ -12,7 +10,6 @@ class SplashScreen extends StatefulWidget {
 class _SplashScreenState extends State<SplashScreen> {
   @override
   void initState() {
-    // TODO: implement initState
     super.initState();
     startTimer();
   }
