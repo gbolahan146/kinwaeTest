@@ -113,8 +113,8 @@ class Cards extends StatelessWidget {
                     Text(
                       title,
                       style: TextStyle(
-                        //  fontFamily: "FuturaMain",
-                          fontSize: McGyver.textSize(context, 1.3),
+                        
+                          fontSize: 9.1,
                           color: textColor),
                     ),
                     Row(
